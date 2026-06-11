@@ -22,7 +22,7 @@
 | Platform | Link |
 |----------|------|
 | 🌐 Google Sites (Portofolio) | https://sites.google.com/view/data-science-portofolio/halaman-muka |
-| 🎥 Video Presentasi YouTube | *(update setelah upload video)* |
+| 🎥 Video Presentasi YouTube | [*(update setelah upload video)*](https://youtu.be/EZL2kaHkfug?si=I2CtxrHhKRwX0IYp) |
 | 🐙 GitHub | https://github.com/louishasashi-dev/kdwm_uas |
 
 ---
