@@ -73,7 +73,7 @@ Project ini menerapkan metode **K-Means Clustering** untuk mengelompokkan pemain
 
 | Platform | Link |
 |----------|------|
-| 🌐 Google Sites (Portofolio) | *(tambahkan link setelah publish)* |
+| 🌐 Google Sites (Portofolio) | https://sites.google.com/view/data-science-portofolio/halaman-muka |
 | 🎥 Video Presentasi YouTube | *(tambahkan link setelah upload)* |
 | 📧 Email | louishasashi@gmail.com |
 | 🐙 GitHub | https://github.com/louishasashi-dev |
