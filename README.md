@@ -9,11 +9,21 @@
 
 | | |
 |---|---|
-| **Nama** | louishasashi-dev |
+| **Nama** | Louis Hasashi Halim |
 | **Email** | louishasashi@gmail.com |
 | **Program Studi** | Sistem Informasi |
 | **Institusi** | Institut Teknologi & Bisnis Bina Sarana Global |
 | **Dosen** | Agus Rifaldi, S.Kom |
+
+---
+
+## 🔗 Links
+
+| Platform | Link |
+|----------|------|
+| 🌐 Google Sites (Portofolio) | https://sites.google.com/view/data-science-portofolio/halaman-muka |
+| 🎥 Video Presentasi YouTube | *(update setelah upload video)* |
+| 🐙 GitHub | https://github.com/louishasashi-dev/kdwm_uas |
 
 ---
 
@@ -66,17 +76,6 @@ Project ini menerapkan metode **K-Means Clustering** untuk mengelompokkan pemain
 | 0 | **High-Time Casual** | ~12.773 (31.9%) | Jam bermain tinggi (~18.6 jam), level rendah (~33) |
 | 1 | **Veteran Player** | ~14.871 (37.1%) | Level tinggi (~80), bermain efisien (~11.6 jam) |
 | 2 | **Light Player** | ~12.390 (30.9%) | Jam bermain rendah (~5.8 jam), level rendah (~30) |
-
----
-
-## 🔗 Links
-
-| Platform | Link |
-|----------|------|
-| 🌐 Google Sites (Portofolio) | https://sites.google.com/view/data-science-portofolio/halaman-muka |
-| 🎥 Video Presentasi YouTube | *(tambahkan link setelah upload)* |
-| 📧 Email | louishasashi@gmail.com |
-| 🐙 GitHub | https://github.com/louishasashi-dev |
 
 ---
 
